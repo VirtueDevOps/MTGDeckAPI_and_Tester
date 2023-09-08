@@ -1,5 +1,15 @@
-# MTGDeckAPI_and_Tester
+This code creates a responsive website introducing the Magic the Gathering Deck Builder API. The following components form the website's structure:
 
-This code creates a website with a heading, a paragraph, and a few links. The heading and paragraph introduce the website and provide some basic information about the API. The "Deck Testing" section includes a list of three links that allow players to test their decks in different ways. The "Contact Us" section includes a link that allows users to contact the website owner for more information.
+- **Header**: Holds the primary heading and a paragraph that introduces the website and gives some information about the API.
+- **Main Section**: Encompasses the "API Documentation" and "Deck Testing" sections. Each section contains details and links that users can follow to explore the API documentation and test their decks, respectively.
+- **Footer**: Contains the "Contact Us" section, offering users a channel to reach out with their questions or feedback.
 
-You can customize this code to suit your needs by adding additional elements, such as forms, tables, or images, and by styling the website using CSS. You can also add functionality to the website by using JavaScript or other programming languages.
+**Customization and Enhancement**:
+
+You can enhance the website by incorporating the following elements:
+
+1. **Styling**: Add a CSS stylesheet to style the website, creating a visually appealing interface. The link to the stylesheet can be added where the placeholder is indicated in the `<head>` section.
+2. **JavaScript**: Introduce JavaScript or other programming languages to add functionality to the website, such as interactive features or dynamic content updates. Include your JavaScript file at the placeholder in the `<head>` section.
+3. **Additional Elements**: Incorporate other HTML elements like forms, tables, or images to provide more information or functionalities to your users.
+   
+By expanding upon this basic structure, you can create a rich, interactive platform for MTG enthusiasts to explore and utilize your Deck Builder API.
